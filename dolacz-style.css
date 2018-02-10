@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.content{
+    padding: 25%;
+    margin-left: 8%;
+}
+
+a{
+    color: black;
+}
+
+.fb{
+    float: left;
+    padding: 3%;
+}
+.slack{
+    float: left;
+    padding: 3%;
+    
+}
+.git{
+    float: left;
+    padding: 3%;
+}
+
+.fb:hover{
+    color: #3B5998;
+}
+
+.git:hover{
+    color: #6cc644;
+}
+
+.slack:hover{
+    color: #ecb32d;
+}

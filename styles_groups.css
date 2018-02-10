@@ -1,0 +1,35 @@
+body {
+    background-color: grey;
+    display: inline-block;
+    max-height: 100vh;
+    margin: 3% auto;
+    text-align: center;
+}
+
+
+
+ .group {
+    margin: 30px 2%;
+    display: inline-block;
+    border: 3px solid crimson;
+    width: 240px;
+    height: 240px;
+}
+
+ .group:hover {
+    background-color: coral;
+    cursor: pointer;
+}
+
+.group h3 {
+    margin-bottom: 5px;
+}
+
+.group p {
+    margin: auto 1%;
+    font-size: 15px;
+}
+
+
+
+
