@@ -11,7 +11,7 @@ body {
  .group {
     margin: 30px 2%;
     display: inline-block;
-    border: 3px solid crimson;
+    border: 3px solid green;
     width: 240px;
     height: 240px;
 }
