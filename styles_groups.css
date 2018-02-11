@@ -15,6 +15,7 @@ body {
     border: 3px solid green;
     width: 240px;
     height: 240px;
+     background-color: white;
 }
 
  .group:hover {
