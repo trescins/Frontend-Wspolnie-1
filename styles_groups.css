@@ -9,6 +9,7 @@ body {
 
 
  .group {
+    background-color: white;
     margin: 30px 2%;
     display: inline-block;
     border: 3px solid green;
